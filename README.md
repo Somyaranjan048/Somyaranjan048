@@ -98,8 +98,8 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Somyaranjan048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somyaranjan048&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Somyaranjan048&theme=tokyonight" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Somyaranjan048&theme=tokyonight" height="170" />
 </div>
 
 <br/>
