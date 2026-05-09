@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=somyanjan048&label=Profile%20Views&color=667eea&style=flat-square" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/somyanjan048?label=Followers&style=flat-square&color=764ba2" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Somyaranjan048&label=Profile%20Views&color=667eea&style=flat-square" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Somyaranjan048?label=Followers&style=flat-square&color=764ba2" alt="followers" />
 </p>
 
 ---
@@ -55,27 +55,42 @@
 
 ### 🛠️ Languages & Tools
 
-<p align="center"><b>🎨 Frontend</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,angular,nextjs,bootstrap,flutter" />
-</p>
+#### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<p align="center"><b>⚙️ Backend & Database</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,c,mysql,mongodb" />
-</p>
+#### ⚙️ Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-<p align="center"><b>🔧 DevOps & Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,figma,postman,ps,arduino,android" />
-</p>
+#### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+#### 🔧 DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=somyanjan048&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Somyaranjan048&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1" />
 </p>
 
 ---
@@ -83,14 +98,14 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=somyanjan048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=somyanjan048&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Somyaranjan048&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Somyaranjan048&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="170" />
 </div>
 
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=somyanjan048&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Somyaranjan048&theme=tokyonight&hide_border=true&background=0d1117" />
 </p>
 
 ---
@@ -98,7 +113,7 @@
 ### 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=somyanjan048&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Somyaranjan048&theme=tokyo-night&hide_border=true&bg_color=0d1117" />
 </p>
 
 ---
